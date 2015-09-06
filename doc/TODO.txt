@@ -1,0 +1,9 @@
+##########
+## TODO ##
+##########
+
++ Add the ability to download pools [DONE]
++ Allow renaming downloaded images to tags
++ Allow passing tags as a command-line argument
+* Refine API handling
+* Switch GUI toolkit to Qt

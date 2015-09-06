@@ -1,0 +1,12 @@
+###############
+## CHANGELOG ##
+###############
+
+Version 1.1, 10/12/14
+=====================
+	* Massive code rewrite
+	+ Added ability to parse URLs and download pools
+
+Version 1.0, 9/21/14
+====================
+	* Initial release
